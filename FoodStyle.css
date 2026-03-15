@@ -16,3 +16,29 @@ img{
     height:80vh;
     background-size:cover;
 }
+.Border{
+    width:70%;
+    height:70vh;
+    border:5px solid white;
+    margin-left: 15%;
+    ;
+}
+.Text{
+    color:white;
+    font-size: 50;
+    position:absolute;
+    top:45%;
+    left:35%;
+}
+.JPage:hover{
+    background-color:red;
+    cursor: pointer;
+}
+.CPage:hover{
+    background-color:yellow;
+    cursor: pointer;
+}
+.NPage:hover{
+    background-color:green;
+    cursor: pointer;
+}
